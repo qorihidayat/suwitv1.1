@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+    background-color: #e0e0e0;
+    padding-bottom: 150px;
+}
+
+
+.kotak {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.box-circle {
+    width: 100px;
+    margin: 0 auto;
+    height: 30px;
+    border: 1px solid #b5dcf7;
+    border-radius: 10px;
+    background-color: #b5dcf7a1;
+    cursor: pointer;
+    padding: 2px;
+}
+
+.circleOn {
+    width: 30px;
+    height: 30px;
+    transition: all .3s;
+    border-radius: 50%;
+    background-color: #222222;
+}
+
+.circleOff {
+    width: 30px;
+    height: 30px;
+    margin-left: 70px;
+    border-radius: 50%;
+    background-color: #e0e0e0;
+
+}
+
+
+.changeB {
+    background-color: #222222;
+
+}
+
+.changeR {
+    background-color: #e0e0e0;
+}
+
+.red-box {
+    margin: 0 auto;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+}
+
+.green-box {
+    margin: 0 auto;
+    width: 30px;
+    height: 30px;
+    background-color: green;
+}
+
+.blue-box {
+    margin: 0 auto;
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+}
